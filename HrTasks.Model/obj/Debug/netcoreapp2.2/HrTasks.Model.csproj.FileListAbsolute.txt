@@ -45,7 +45,6 @@ D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.Model\bin\Debug\netcor
 D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.Model\bin\Debug\netcoreapp2.2\HrTasks.Model.runtimeconfig.dev.json
 D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.Model\bin\Debug\netcoreapp2.2\HrTasks.Model.dll
 D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.Model\bin\Debug\netcoreapp2.2\HrTasks.Model.pdb
-D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.Model\obj\Debug\netcoreapp2.2\HrTasks.Model.csprojAssemblyReference.cache
 D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.Model\obj\Debug\netcoreapp2.2\HrTasks.Model.AssemblyInfoInputs.cache
 D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.Model\obj\Debug\netcoreapp2.2\HrTasks.Model.AssemblyInfo.cs
 D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.Model\obj\Debug\netcoreapp2.2\HrTasks.Model.dll
