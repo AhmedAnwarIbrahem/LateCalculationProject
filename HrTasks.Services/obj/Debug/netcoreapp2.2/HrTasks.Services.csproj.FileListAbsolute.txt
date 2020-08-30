@@ -1,0 +1,64 @@
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.Services.deps.json
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.Services.dll
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.Services.pdb
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.Model.dll
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.ModelAccess.dll
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.ModelAccess.pdb
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.Model.pdb
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.csprojAssemblyReference.cache
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.csproj.CoreCompileInputs.cache
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.AssemblyInfoInputs.cache
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.AssemblyInfo.cs
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.csproj.CopyComplete
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.dll
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.pdb
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.Services\bin\Debug\netcoreapp2.2\Common.dll
+C:\Users\mubarak\Desktop\Erp\ERPTask\HrTasks.Services\bin\Debug\netcoreapp2.2\Common.pdb
+C:\Users\M.mubarak\Desktop\ERPTask\ERPTask\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.Services.deps.json
+C:\Users\M.mubarak\Desktop\ERPTask\ERPTask\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.Services.dll
+C:\Users\M.mubarak\Desktop\ERPTask\ERPTask\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.Services.pdb
+C:\Users\M.mubarak\Desktop\ERPTask\ERPTask\HrTasks.Services\bin\Debug\netcoreapp2.2\Common.dll
+C:\Users\M.mubarak\Desktop\ERPTask\ERPTask\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.Model.dll
+C:\Users\M.mubarak\Desktop\ERPTask\ERPTask\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.ModelAccess.dll
+C:\Users\M.mubarak\Desktop\ERPTask\ERPTask\HrTasks.Services\bin\Debug\netcoreapp2.2\Common.pdb
+C:\Users\M.mubarak\Desktop\ERPTask\ERPTask\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.ModelAccess.pdb
+C:\Users\M.mubarak\Desktop\ERPTask\ERPTask\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.Model.pdb
+C:\Users\M.mubarak\Desktop\ERPTask\ERPTask\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.csprojAssemblyReference.cache
+C:\Users\M.mubarak\Desktop\ERPTask\ERPTask\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.csproj.CoreCompileInputs.cache
+C:\Users\M.mubarak\Desktop\ERPTask\ERPTask\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.AssemblyInfoInputs.cache
+C:\Users\M.mubarak\Desktop\ERPTask\ERPTask\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.AssemblyInfo.cs
+C:\Users\M.mubarak\Desktop\ERPTask\ERPTask\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.csproj.CopyComplete
+C:\Users\M.mubarak\Desktop\ERPTask\ERPTask\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.dll
+C:\Users\M.mubarak\Desktop\ERPTask\ERPTask\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.pdb
+C:\Users\mubarak\Desktop\ERPTask\ERPTask\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.Services.deps.json
+C:\Users\mubarak\Desktop\ERPTask\ERPTask\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.Services.dll
+C:\Users\mubarak\Desktop\ERPTask\ERPTask\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.Services.pdb
+C:\Users\mubarak\Desktop\ERPTask\ERPTask\HrTasks.Services\bin\Debug\netcoreapp2.2\Common.dll
+C:\Users\mubarak\Desktop\ERPTask\ERPTask\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.Model.dll
+C:\Users\mubarak\Desktop\ERPTask\ERPTask\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.ModelAccess.dll
+C:\Users\mubarak\Desktop\ERPTask\ERPTask\HrTasks.Services\bin\Debug\netcoreapp2.2\Common.pdb
+C:\Users\mubarak\Desktop\ERPTask\ERPTask\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.ModelAccess.pdb
+C:\Users\mubarak\Desktop\ERPTask\ERPTask\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.Model.pdb
+C:\Users\mubarak\Desktop\ERPTask\ERPTask\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.csprojAssemblyReference.cache
+C:\Users\mubarak\Desktop\ERPTask\ERPTask\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.csproj.CoreCompileInputs.cache
+C:\Users\mubarak\Desktop\ERPTask\ERPTask\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.AssemblyInfoInputs.cache
+C:\Users\mubarak\Desktop\ERPTask\ERPTask\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.AssemblyInfo.cs
+C:\Users\mubarak\Desktop\ERPTask\ERPTask\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.csproj.CopyComplete
+C:\Users\mubarak\Desktop\ERPTask\ERPTask\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.dll
+C:\Users\mubarak\Desktop\ERPTask\ERPTask\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.pdb
+D:\New folder (2)\EmpTasksNetCore\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.Services.deps.json
+D:\New folder (2)\EmpTasksNetCore\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.Services.dll
+D:\New folder (2)\EmpTasksNetCore\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.Services.pdb
+D:\New folder (2)\EmpTasksNetCore\HrTasks.Services\bin\Debug\netcoreapp2.2\Common.dll
+D:\New folder (2)\EmpTasksNetCore\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.Model.dll
+D:\New folder (2)\EmpTasksNetCore\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.ModelAccess.dll
+D:\New folder (2)\EmpTasksNetCore\HrTasks.Services\bin\Debug\netcoreapp2.2\Common.pdb
+D:\New folder (2)\EmpTasksNetCore\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.ModelAccess.pdb
+D:\New folder (2)\EmpTasksNetCore\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.Model.pdb
+D:\New folder (2)\EmpTasksNetCore\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.csprojResolveAssemblyReference.cache
+D:\New folder (2)\EmpTasksNetCore\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.csproj.CoreCompileInputs.cache
+D:\New folder (2)\EmpTasksNetCore\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.AssemblyInfoInputs.cache
+D:\New folder (2)\EmpTasksNetCore\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.AssemblyInfo.cs
+D:\New folder (2)\EmpTasksNetCore\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.csproj.CopyComplete
+D:\New folder (2)\EmpTasksNetCore\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.dll
+D:\New folder (2)\EmpTasksNetCore\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.pdb

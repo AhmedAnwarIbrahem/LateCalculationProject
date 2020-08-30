@@ -1,0 +1,34 @@
+C:\Users\mubarak\Desktop\Erp\ERPTask\Common\bin\Debug\netcoreapp2.2\Common.deps.json
+C:\Users\mubarak\Desktop\Erp\ERPTask\Common\bin\Debug\netcoreapp2.2\Common.dll
+C:\Users\mubarak\Desktop\Erp\ERPTask\Common\obj\Debug\netcoreapp2.2\Common.csproj.CoreCompileInputs.cache
+C:\Users\mubarak\Desktop\Erp\ERPTask\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfoInputs.cache
+C:\Users\mubarak\Desktop\Erp\ERPTask\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfo.cs
+C:\Users\mubarak\Desktop\Erp\ERPTask\Common\obj\Debug\netcoreapp2.2\Common.csprojAssemblyReference.cache
+C:\Users\mubarak\Desktop\Erp\ERPTask\Common\bin\Debug\netcoreapp2.2\Common.pdb
+C:\Users\mubarak\Desktop\Erp\ERPTask\Common\obj\Debug\netcoreapp2.2\Common.dll
+C:\Users\mubarak\Desktop\Erp\ERPTask\Common\obj\Debug\netcoreapp2.2\Common.pdb
+C:\Users\M.mubarak\Desktop\ERPTask\ERPTask\Common\bin\Debug\netcoreapp2.2\Common.deps.json
+C:\Users\M.mubarak\Desktop\ERPTask\ERPTask\Common\bin\Debug\netcoreapp2.2\Common.dll
+C:\Users\M.mubarak\Desktop\ERPTask\ERPTask\Common\bin\Debug\netcoreapp2.2\Common.pdb
+C:\Users\M.mubarak\Desktop\ERPTask\ERPTask\Common\obj\Debug\netcoreapp2.2\Common.csproj.CoreCompileInputs.cache
+C:\Users\M.mubarak\Desktop\ERPTask\ERPTask\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfoInputs.cache
+C:\Users\M.mubarak\Desktop\ERPTask\ERPTask\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfo.cs
+C:\Users\M.mubarak\Desktop\ERPTask\ERPTask\Common\obj\Debug\netcoreapp2.2\Common.dll
+C:\Users\M.mubarak\Desktop\ERPTask\ERPTask\Common\obj\Debug\netcoreapp2.2\Common.pdb
+C:\Users\mubarak\Desktop\ERPTask\ERPTask\Common\bin\Debug\netcoreapp2.2\Common.deps.json
+C:\Users\mubarak\Desktop\ERPTask\ERPTask\Common\bin\Debug\netcoreapp2.2\Common.dll
+C:\Users\mubarak\Desktop\ERPTask\ERPTask\Common\bin\Debug\netcoreapp2.2\Common.pdb
+C:\Users\mubarak\Desktop\ERPTask\ERPTask\Common\obj\Debug\netcoreapp2.2\Common.csprojAssemblyReference.cache
+C:\Users\mubarak\Desktop\ERPTask\ERPTask\Common\obj\Debug\netcoreapp2.2\Common.csproj.CoreCompileInputs.cache
+C:\Users\mubarak\Desktop\ERPTask\ERPTask\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfoInputs.cache
+C:\Users\mubarak\Desktop\ERPTask\ERPTask\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfo.cs
+C:\Users\mubarak\Desktop\ERPTask\ERPTask\Common\obj\Debug\netcoreapp2.2\Common.dll
+C:\Users\mubarak\Desktop\ERPTask\ERPTask\Common\obj\Debug\netcoreapp2.2\Common.pdb
+D:\New folder (2)\EmpTasksNetCore\Common\bin\Debug\netcoreapp2.2\Common.deps.json
+D:\New folder (2)\EmpTasksNetCore\Common\bin\Debug\netcoreapp2.2\Common.dll
+D:\New folder (2)\EmpTasksNetCore\Common\bin\Debug\netcoreapp2.2\Common.pdb
+D:\New folder (2)\EmpTasksNetCore\Common\obj\Debug\netcoreapp2.2\Common.csproj.CoreCompileInputs.cache
+D:\New folder (2)\EmpTasksNetCore\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfoInputs.cache
+D:\New folder (2)\EmpTasksNetCore\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfo.cs
+D:\New folder (2)\EmpTasksNetCore\Common\obj\Debug\netcoreapp2.2\Common.dll
+D:\New folder (2)\EmpTasksNetCore\Common\obj\Debug\netcoreapp2.2\Common.pdb
