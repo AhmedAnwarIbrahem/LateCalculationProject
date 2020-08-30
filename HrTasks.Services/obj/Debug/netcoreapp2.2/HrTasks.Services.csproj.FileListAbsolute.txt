@@ -62,3 +62,18 @@ D:\New folder (2)\EmpTasksNetCore\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTas
 D:\New folder (2)\EmpTasksNetCore\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.csproj.CopyComplete
 D:\New folder (2)\EmpTasksNetCore\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.dll
 D:\New folder (2)\EmpTasksNetCore\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.pdb
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.Services.deps.json
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.Services.dll
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.Services.pdb
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.Services\bin\Debug\netcoreapp2.2\Common.dll
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.Model.dll
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.ModelAccess.dll
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.Services\bin\Debug\netcoreapp2.2\Common.pdb
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.ModelAccess.pdb
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.Services\bin\Debug\netcoreapp2.2\HrTasks.Model.pdb
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.csprojAssemblyReference.cache
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.AssemblyInfoInputs.cache
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.AssemblyInfo.cs
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.csproj.CopyComplete
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.dll
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.Services\obj\Debug\netcoreapp2.2\HrTasks.Services.pdb
