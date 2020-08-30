@@ -35,7 +35,6 @@ D:\New folder (2)\EmpTasksNetCore\Common\obj\Debug\netcoreapp2.2\Common.pdb
 D:\LateCalculation\BackEnd\LateCalculationProject\Common\bin\Debug\netcoreapp2.2\Common.deps.json
 D:\LateCalculation\BackEnd\LateCalculationProject\Common\bin\Debug\netcoreapp2.2\Common.dll
 D:\LateCalculation\BackEnd\LateCalculationProject\Common\bin\Debug\netcoreapp2.2\Common.pdb
-D:\LateCalculation\BackEnd\LateCalculationProject\Common\obj\Debug\netcoreapp2.2\Common.csprojAssemblyReference.cache
 D:\LateCalculation\BackEnd\LateCalculationProject\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfoInputs.cache
 D:\LateCalculation\BackEnd\LateCalculationProject\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfo.cs
 D:\LateCalculation\BackEnd\LateCalculationProject\Common\obj\Debug\netcoreapp2.2\Common.dll

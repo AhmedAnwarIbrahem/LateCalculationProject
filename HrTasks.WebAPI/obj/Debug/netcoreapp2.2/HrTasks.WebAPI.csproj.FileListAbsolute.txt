@@ -90,3 +90,28 @@ D:\New folder (2)\EmpTasksNetCore\HrTasks.WebAPI\obj\Debug\netcoreapp2.2\HrTasks
 D:\New folder (2)\EmpTasksNetCore\HrTasks.WebAPI\obj\Debug\netcoreapp2.2\HrTasks.WebAPI.csproj.CopyComplete
 D:\New folder (2)\EmpTasksNetCore\HrTasks.WebAPI\obj\Debug\netcoreapp2.2\HrTasks.WebAPI.dll
 D:\New folder (2)\EmpTasksNetCore\HrTasks.WebAPI\obj\Debug\netcoreapp2.2\HrTasks.WebAPI.pdb
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.WebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.WebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.WebAPI\bin\Debug\netcoreapp2.2\HrTasks.WebAPI.deps.json
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.WebAPI\bin\Debug\netcoreapp2.2\HrTasks.WebAPI.runtimeconfig.json
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.WebAPI\bin\Debug\netcoreapp2.2\HrTasks.WebAPI.runtimeconfig.dev.json
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.WebAPI\bin\Debug\netcoreapp2.2\HrTasks.WebAPI.dll
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.WebAPI\bin\Debug\netcoreapp2.2\HrTasks.WebAPI.pdb
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.WebAPI\bin\Debug\netcoreapp2.2\Common.dll
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.WebAPI\bin\Debug\netcoreapp2.2\HrTasks.Model.dll
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.WebAPI\bin\Debug\netcoreapp2.2\HrTasks.ModelAccess.dll
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.WebAPI\bin\Debug\netcoreapp2.2\HrTasks.Services.dll
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.WebAPI\bin\Debug\netcoreapp2.2\HrTasks.Model.pdb
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.WebAPI\bin\Debug\netcoreapp2.2\HrTasks.Services.pdb
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.WebAPI\bin\Debug\netcoreapp2.2\Common.pdb
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.WebAPI\bin\Debug\netcoreapp2.2\HrTasks.ModelAccess.pdb
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.WebAPI\obj\Debug\netcoreapp2.2\HrTasks.WebAPI.csprojAssemblyReference.cache
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.WebAPI\obj\Debug\netcoreapp2.2\HrTasks.WebAPI.RazorAssemblyInfo.cache
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.WebAPI\obj\Debug\netcoreapp2.2\HrTasks.WebAPI.RazorAssemblyInfo.cs
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.WebAPI\obj\Debug\netcoreapp2.2\HrTasks.WebAPI.AssemblyInfoInputs.cache
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.WebAPI\obj\Debug\netcoreapp2.2\HrTasks.WebAPI.AssemblyInfo.cs
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.WebAPI\obj\Debug\netcoreapp2.2\HrTasks.WebAPI.RazorTargetAssemblyInfo.cache
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.WebAPI\obj\Debug\netcoreapp2.2\HrTasks.WebAPI.csproj.CopyComplete
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.WebAPI\obj\Debug\netcoreapp2.2\HrTasks.WebAPI.dll
+D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.WebAPI\obj\Debug\netcoreapp2.2\HrTasks.WebAPI.pdb
