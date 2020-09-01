@@ -8,8 +8,7 @@ namespace HrTasks.ModelAccess
   public  interface IUnitofWork : IDisposable
     {
         EmployeeRepository EmployeeRepository { get; }
-        DepartmentRepository DepartmentRepository { get; }
-        EmployeeTaskRepository EmployeeTaskRepository { get; }
+        EmployeeLogRepository EmployeeLogRepository { get; }
 
         int SaveChanges();
     }

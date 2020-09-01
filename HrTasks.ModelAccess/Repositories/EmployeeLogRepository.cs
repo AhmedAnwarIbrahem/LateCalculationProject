@@ -7,9 +7,9 @@ using System.Text;
 
 namespace HrTasks.ModelAccess.Repositories
 {
-    public class DepartmentRepository : Repository<Department>
+    public class EmployeeLogRepository : Repository<EmployeeLog>
     {
-        public DepartmentRepository(HrTasksContext context) : base(context)
+        public EmployeeLogRepository(HrTasksContext context) : base(context)
         {
         }
     }

@@ -3626,11 +3626,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LateCalculation\\BackEnd\\LateCalculationProject\\HrTasks.Model\\HrTasks.Model.csproj",
+      "projectUniqueName": "D:\\_LateCalculation\\BackEnd\\LateCalculationProject\\HrTasks.Model\\HrTasks.Model.csproj",
       "projectName": "HrTasks.Model",
-      "projectPath": "D:\\LateCalculation\\BackEnd\\LateCalculationProject\\HrTasks.Model\\HrTasks.Model.csproj",
+      "projectPath": "D:\\_LateCalculation\\BackEnd\\LateCalculationProject\\HrTasks.Model\\HrTasks.Model.csproj",
       "packagesPath": "C:\\Users\\A.Anwar\\.nuget\\packages\\",
-      "outputPath": "D:\\LateCalculation\\BackEnd\\LateCalculationProject\\HrTasks.Model\\obj\\",
+      "outputPath": "D:\\_LateCalculation\\BackEnd\\LateCalculationProject\\HrTasks.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3695,7 +3695,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -22,19 +22,12 @@ namespace HrTasks.ModelAccess
                 return new EmployeeRepository(_context);
             }
         }
-        public DepartmentRepository DepartmentRepository
-        {
-            get
-            {
-                return new DepartmentRepository(_context);
-            }
-        }
 
-        public EmployeeTaskRepository EmployeeTaskRepository
+        public EmployeeLogRepository EmployeeLogRepository
         {
             get
             {
-                return new EmployeeTaskRepository(_context);
+                return new EmployeeLogRepository(_context);
             }
         }
 

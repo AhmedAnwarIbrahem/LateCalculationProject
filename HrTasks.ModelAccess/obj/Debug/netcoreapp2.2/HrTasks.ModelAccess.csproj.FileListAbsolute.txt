@@ -67,3 +67,17 @@ D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.ModelAccess\obj\Debug\
 D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.ModelAccess\obj\Debug\netcoreapp2.2\HrTasks.ModelAccess.csproj.CopyComplete
 D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.ModelAccess\obj\Debug\netcoreapp2.2\HrTasks.ModelAccess.dll
 D:\LateCalculation\BackEnd\LateCalculationProject\HrTasks.ModelAccess\obj\Debug\netcoreapp2.2\HrTasks.ModelAccess.pdb
+D:\_LateCalculation\BackEnd\LateCalculationProject\HrTasks.ModelAccess\bin\Debug\netcoreapp2.2\HrTasks.ModelAccess.deps.json
+D:\_LateCalculation\BackEnd\LateCalculationProject\HrTasks.ModelAccess\bin\Debug\netcoreapp2.2\HrTasks.ModelAccess.dll
+D:\_LateCalculation\BackEnd\LateCalculationProject\HrTasks.ModelAccess\bin\Debug\netcoreapp2.2\HrTasks.ModelAccess.pdb
+D:\_LateCalculation\BackEnd\LateCalculationProject\HrTasks.ModelAccess\bin\Debug\netcoreapp2.2\Common.dll
+D:\_LateCalculation\BackEnd\LateCalculationProject\HrTasks.ModelAccess\bin\Debug\netcoreapp2.2\HrTasks.Model.dll
+D:\_LateCalculation\BackEnd\LateCalculationProject\HrTasks.ModelAccess\bin\Debug\netcoreapp2.2\Common.pdb
+D:\_LateCalculation\BackEnd\LateCalculationProject\HrTasks.ModelAccess\bin\Debug\netcoreapp2.2\HrTasks.Model.pdb
+D:\_LateCalculation\BackEnd\LateCalculationProject\HrTasks.ModelAccess\obj\Debug\netcoreapp2.2\HrTasks.ModelAccess.csprojAssemblyReference.cache
+D:\_LateCalculation\BackEnd\LateCalculationProject\HrTasks.ModelAccess\obj\Debug\netcoreapp2.2\HrTasks.ModelAccess.AssemblyInfoInputs.cache
+D:\_LateCalculation\BackEnd\LateCalculationProject\HrTasks.ModelAccess\obj\Debug\netcoreapp2.2\HrTasks.ModelAccess.AssemblyInfo.cs
+D:\_LateCalculation\BackEnd\LateCalculationProject\HrTasks.ModelAccess\obj\Debug\netcoreapp2.2\HrTasks.ModelAccess.csproj.CoreCompileInputs.cache
+D:\_LateCalculation\BackEnd\LateCalculationProject\HrTasks.ModelAccess\obj\Debug\netcoreapp2.2\HrTasks.ModelAccess.csproj.CopyComplete
+D:\_LateCalculation\BackEnd\LateCalculationProject\HrTasks.ModelAccess\obj\Debug\netcoreapp2.2\HrTasks.ModelAccess.dll
+D:\_LateCalculation\BackEnd\LateCalculationProject\HrTasks.ModelAccess\obj\Debug\netcoreapp2.2\HrTasks.ModelAccess.pdb

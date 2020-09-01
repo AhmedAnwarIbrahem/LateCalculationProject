@@ -3968,11 +3968,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LateCalculation\\BackEnd\\LateCalculationProject\\HrTasks.Services\\HrTasks.Services.csproj",
+      "projectUniqueName": "D:\\_LateCalculation\\BackEnd\\LateCalculationProject\\HrTasks.Services\\HrTasks.Services.csproj",
       "projectName": "HrTasks.Services",
-      "projectPath": "D:\\LateCalculation\\BackEnd\\LateCalculationProject\\HrTasks.Services\\HrTasks.Services.csproj",
+      "projectPath": "D:\\_LateCalculation\\BackEnd\\LateCalculationProject\\HrTasks.Services\\HrTasks.Services.csproj",
       "packagesPath": "C:\\Users\\A.Anwar\\.nuget\\packages\\",
-      "outputPath": "D:\\LateCalculation\\BackEnd\\LateCalculationProject\\HrTasks.Services\\obj\\",
+      "outputPath": "D:\\_LateCalculation\\BackEnd\\LateCalculationProject\\HrTasks.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3991,11 +3991,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\LateCalculation\\BackEnd\\LateCalculationProject\\Common\\Common.csproj": {
-              "projectPath": "D:\\LateCalculation\\BackEnd\\LateCalculationProject\\Common\\Common.csproj"
+            "D:\\_LateCalculation\\BackEnd\\LateCalculationProject\\Common\\Common.csproj": {
+              "projectPath": "D:\\_LateCalculation\\BackEnd\\LateCalculationProject\\Common\\Common.csproj"
             },
-            "D:\\LateCalculation\\BackEnd\\LateCalculationProject\\HrTasks.ModelAccess\\HrTasks.ModelAccess.csproj": {
-              "projectPath": "D:\\LateCalculation\\BackEnd\\LateCalculationProject\\HrTasks.ModelAccess\\HrTasks.ModelAccess.csproj"
+            "D:\\_LateCalculation\\BackEnd\\LateCalculationProject\\HrTasks.ModelAccess\\HrTasks.ModelAccess.csproj": {
+              "projectPath": "D:\\_LateCalculation\\BackEnd\\LateCalculationProject\\HrTasks.ModelAccess\\HrTasks.ModelAccess.csproj"
             }
           }
         }
@@ -4046,7 +4046,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

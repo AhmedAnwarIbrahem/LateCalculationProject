@@ -39,3 +39,11 @@ D:\LateCalculation\BackEnd\LateCalculationProject\Common\obj\Debug\netcoreapp2.2
 D:\LateCalculation\BackEnd\LateCalculationProject\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfo.cs
 D:\LateCalculation\BackEnd\LateCalculationProject\Common\obj\Debug\netcoreapp2.2\Common.dll
 D:\LateCalculation\BackEnd\LateCalculationProject\Common\obj\Debug\netcoreapp2.2\Common.pdb
+D:\_LateCalculation\BackEnd\LateCalculationProject\Common\bin\Debug\netcoreapp2.2\Common.deps.json
+D:\_LateCalculation\BackEnd\LateCalculationProject\Common\bin\Debug\netcoreapp2.2\Common.dll
+D:\_LateCalculation\BackEnd\LateCalculationProject\Common\bin\Debug\netcoreapp2.2\Common.pdb
+D:\_LateCalculation\BackEnd\LateCalculationProject\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfoInputs.cache
+D:\_LateCalculation\BackEnd\LateCalculationProject\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfo.cs
+D:\_LateCalculation\BackEnd\LateCalculationProject\Common\obj\Debug\netcoreapp2.2\Common.csproj.CoreCompileInputs.cache
+D:\_LateCalculation\BackEnd\LateCalculationProject\Common\obj\Debug\netcoreapp2.2\Common.dll
+D:\_LateCalculation\BackEnd\LateCalculationProject\Common\obj\Debug\netcoreapp2.2\Common.pdb

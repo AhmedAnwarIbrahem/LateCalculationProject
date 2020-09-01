@@ -46,7 +46,7 @@ namespace HrTasks.Model.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "EmployeeTasks",
+                name: "EmployeeLogs",
                 columns: table => new
                 {
                     Id = table.Column<int>(nullable: false)
@@ -58,9 +58,9 @@ namespace HrTasks.Model.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_EmployeeTasks", x => x.Id);
+                    table.PrimaryKey("PK_EmployeeLogs", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_EmployeeTasks_Employees_EmployeeId",
+                        name: "FK_EmployeeLogs_Employees_EmployeeId",
                         column: x => x.EmployeeId,
                         principalTable: "Employees",
                         principalColumn: "Id",
@@ -73,15 +73,15 @@ namespace HrTasks.Model.Migrations
                 column: "DepartmentId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_EmployeeTasks_EmployeeId",
-                table: "EmployeeTasks",
+                name: "IX_EmployeeLogs_EmployeeId",
+                table: "EmployeeLogs",
                 column: "EmployeeId");
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "EmployeeTasks");
+                name: "EmployeeLogs");
 
             migrationBuilder.DropTable(
                 name: "Employees");

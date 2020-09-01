@@ -13105,11 +13105,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LateCalculation\\BackEnd\\LateCalculationProject\\HrTasks.WebAPI\\HrTasks.WebAPI.csproj",
+      "projectUniqueName": "D:\\_LateCalculation\\BackEnd\\LateCalculationProject\\HrTasks.WebAPI\\HrTasks.WebAPI.csproj",
       "projectName": "HrTasks.WebAPI",
-      "projectPath": "D:\\LateCalculation\\BackEnd\\LateCalculationProject\\HrTasks.WebAPI\\HrTasks.WebAPI.csproj",
+      "projectPath": "D:\\_LateCalculation\\BackEnd\\LateCalculationProject\\HrTasks.WebAPI\\HrTasks.WebAPI.csproj",
       "packagesPath": "C:\\Users\\A.Anwar\\.nuget\\packages\\",
-      "outputPath": "D:\\LateCalculation\\BackEnd\\LateCalculationProject\\HrTasks.WebAPI\\obj\\",
+      "outputPath": "D:\\_LateCalculation\\BackEnd\\LateCalculationProject\\HrTasks.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13128,11 +13128,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\LateCalculation\\BackEnd\\LateCalculationProject\\HrTasks.Model\\HrTasks.Model.csproj": {
-              "projectPath": "D:\\LateCalculation\\BackEnd\\LateCalculationProject\\HrTasks.Model\\HrTasks.Model.csproj"
+            "D:\\_LateCalculation\\BackEnd\\LateCalculationProject\\HrTasks.Model\\HrTasks.Model.csproj": {
+              "projectPath": "D:\\_LateCalculation\\BackEnd\\LateCalculationProject\\HrTasks.Model\\HrTasks.Model.csproj"
             },
-            "D:\\LateCalculation\\BackEnd\\LateCalculationProject\\HrTasks.Services\\HrTasks.Services.csproj": {
-              "projectPath": "D:\\LateCalculation\\BackEnd\\LateCalculationProject\\HrTasks.Services\\HrTasks.Services.csproj"
+            "D:\\_LateCalculation\\BackEnd\\LateCalculationProject\\HrTasks.Services\\HrTasks.Services.csproj": {
+              "projectPath": "D:\\_LateCalculation\\BackEnd\\LateCalculationProject\\HrTasks.Services\\HrTasks.Services.csproj"
             }
           }
         }
@@ -13178,7 +13178,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

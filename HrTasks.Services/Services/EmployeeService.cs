@@ -18,7 +18,7 @@ namespace HrTasks.Services.Services
 
         public IEnumerable<EmployeeDto> GetAll()
         {
-            var list = _unitofWork.EmployeeRepository.GetAll(source => source.Include(u => u.Departments));
+            var list = _unitofWork.EmployeeRepository.GetAll();
             return _mapper.Map<IEnumerable<EmployeeDto>>(list);
         }
         public EmployeeDto Get(int id)

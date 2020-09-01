@@ -19,77 +19,50 @@ namespace HrTasks.Model.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-            modelBuilder.Entity("HrTasks.Model.Entites.Department", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-                    b.Property<string>("DepartmentAr");
-
-                    b.Property<string>("DepartmentEn");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Departments");
-                });
-
             modelBuilder.Entity("HrTasks.Model.Entites.Employee", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-                    b.Property<int>("DepartmentId");
 
                     b.Property<string>("EmployeeNameAr");
 
                     b.Property<string>("EmployeeNameEn");
 
-                    b.Property<bool>("IsManger");
-
                     b.Property<DateTime>("JoinDate");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("DepartmentId");
-
                     b.ToTable("Employees");
                 });
 
-            modelBuilder.Entity("HrTasks.Model.Entites.EmployeeTask", b =>
+            modelBuilder.Entity("HrTasks.Model.Entites.EmployeeLog", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
+                    b.Property<DateTime>("DayDate");
+
                     b.Property<string>("Description");
 
                     b.Property<int>("EmployeeId");
 
-                    b.Property<DateTime>("EndDate");
+                    b.Property<TimeSpan?>("LogIn");
 
-                    b.Property<DateTime>("StartDate");
+                    b.Property<TimeSpan?>("LogOut");
 
                     b.HasKey("Id");
 
                     b.HasIndex("EmployeeId");
 
-                    b.ToTable("EmployeeTasks");
+                    b.ToTable("EmployeeLogs");
                 });
 
-            modelBuilder.Entity("HrTasks.Model.Entites.Employee", b =>
-                {
-                    b.HasOne("HrTasks.Model.Entites.Department", "Departments")
-                        .WithMany("Employees")
-                        .HasForeignKey("DepartmentId")
-                        .OnDelete(DeleteBehavior.Cascade);
-                });
-
-            modelBuilder.Entity("HrTasks.Model.Entites.EmployeeTask", b =>
+            modelBuilder.Entity("HrTasks.Model.Entites.EmployeeLog", b =>
                 {
                     b.HasOne("HrTasks.Model.Entites.Employee", "Employees")
-                        .WithMany("Tasks")
+                        .WithMany("EmployeeLogs")
                         .HasForeignKey("EmployeeId")
                         .OnDelete(DeleteBehavior.Cascade);
                 });

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LateCalculation\\BackEnd\\LateCalculationProject\\Common\\Common.csproj": {}
+    "D:\\_LateCalculation\\BackEnd\\LateCalculationProject\\Common\\Common.csproj": {}
   },
   "projects": {
-    "D:\\LateCalculation\\BackEnd\\LateCalculationProject\\Common\\Common.csproj": {
+    "D:\\_LateCalculation\\BackEnd\\LateCalculationProject\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LateCalculation\\BackEnd\\LateCalculationProject\\Common\\Common.csproj",
+        "projectUniqueName": "D:\\_LateCalculation\\BackEnd\\LateCalculationProject\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "D:\\LateCalculation\\BackEnd\\LateCalculationProject\\Common\\Common.csproj",
+        "projectPath": "D:\\_LateCalculation\\BackEnd\\LateCalculationProject\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\A.Anwar\\.nuget\\packages\\",
-        "outputPath": "D:\\LateCalculation\\BackEnd\\LateCalculationProject\\Common\\obj\\",
+        "outputPath": "D:\\_LateCalculation\\BackEnd\\LateCalculationProject\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -66,7 +66,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

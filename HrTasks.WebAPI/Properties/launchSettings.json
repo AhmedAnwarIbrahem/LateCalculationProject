@@ -7,7 +7,7 @@
       "sslPort": 0
     },
     "iisExpress": {
-      "applicationUrl": "http://localhost:44420/",
+      "applicationUrl": "http://localhost:5000/",
       "sslPort": 0
     }
   },
@@ -23,11 +23,11 @@
     "HrTasks.WebAPI": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "api/departments",
+      "launchUrl": "api/Employees/GetAll",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
-      },
-      "applicationUrl": "https://localhost:5001;http://localhost:5000"
+      }
+      //"applicationUrl": "https://localhost:5001/"
     }
   }
 }

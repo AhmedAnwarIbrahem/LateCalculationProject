@@ -59,7 +59,7 @@ namespace HrTasks.Model.Migrations
                     b.ToTable("Employees");
                 });
 
-            modelBuilder.Entity("HrTasks.Model.Entites.EmployeeTask", b =>
+            modelBuilder.Entity("HrTasks.Model.Entites.EmployeeLog", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -77,7 +77,7 @@ namespace HrTasks.Model.Migrations
 
                     b.HasIndex("EmployeeId");
 
-                    b.ToTable("EmployeeTasks");
+                    b.ToTable("EmployeeLogs");
                 });
 
             modelBuilder.Entity("HrTasks.Model.Entites.Employee", b =>
@@ -88,7 +88,7 @@ namespace HrTasks.Model.Migrations
                         .OnDelete(DeleteBehavior.Cascade);
                 });
 
-            modelBuilder.Entity("HrTasks.Model.Entites.EmployeeTask", b =>
+            modelBuilder.Entity("HrTasks.Model.Entites.EmployeeLog", b =>
                 {
                     b.HasOne("HrTasks.Model.Entites.Employee", "Employees")
                         .WithMany("Tasks")

@@ -13,7 +13,6 @@ namespace HrTasks.Model
 
         }
         public virtual DbSet<Employee> Employees { get; set; }
-        public virtual DbSet<EmployeeTask> EmployeeTasks { get; set; }
-        public virtual DbSet<Department> Departments { get; set; }
+        public virtual DbSet<EmployeeLog> EmployeeLogs { get; set; }
     }
 }
